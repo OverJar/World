@@ -1,4 +1,4 @@
-# Runa XR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) [GitHub](https://github.com/FlintFinancial/RunaXR)
+# Runa XR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
 Runa XR is here!! to better serve the cryptocurrency community space 🚀, best XR supply for better price!! Get aboard for imagination into reality!  
 
