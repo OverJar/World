@@ -1,10 +1,14 @@
 # Runa XR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) [GitHub](https://github.com/FlintFinancial/RunaXR)
 
-Runa XR is here!! to better serve the cryptocurrency community space 🚀
+Runa XR is here!! to better serve the cryptocurrency community space 🚀, best XR supply for better price!! Get aboard for imagination into reality!  
+
 - Name: Runa
 - Symbol: XR
 - Polygon Blockchain
 - Decimal: 18
+- XR burned: 95%
+- Circulating supply: 450,000,000 XR
+
 
 - Contract:
 0x9Af9649403536FdCc52eaFB9230852a824153223
