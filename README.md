@@ -1,6 +1,6 @@
 # Runa XR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
-Runa XR is here!! to better serve the cryptocurrency community space 🚀, best XR supply for better price!! Get aboard for imagination into reality! XR space station tower!! With our own spaceship, we travel everywhere including earth & space.  
+Runa XR is here!! to better serve the cryptocurrency community space 🚀, best XR supply for better price!! Get aboard for imagination into reality! XR space station tower!! With our own spaceship, we travel everywhere including earth & space. XR beyond everything!! Everything!!!  
 
 - Name: Runa
 - Symbol: XR
