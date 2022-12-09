@@ -1,7 +1,6 @@
 # Runa XR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) [GitHub](https://github.com/FlintFinancial/RunaXR)
 
-Runa XR is here!! to better serve the cryptocurrency community, Runa XR based on japanese luna space
-
+Runa XR is here!! to better serve the cryptocurrency community space 🚀
 - Name: Runa
 - Symbol: XR
 - Polygon Blockchain
