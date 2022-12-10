@@ -1,6 +1,7 @@
 # Runa 💲XR 🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
-Runa XR is here to better serve the cryptocurrency community space 🚀, best XR supply for better price! Get aboard for imagination into reality! XR space station tower! XR currency! With our own Runa XR spaceship we travel everywhere including earth & space. XR beyond everything! & Everything!  
+Runa XR is here to better serve the cryptocurrency community space 🚀! Get aboard for imagination eXtended reality! 
+XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_liquidity! 
 
 - Name: Runa
 - Symbol: XR
@@ -8,10 +9,19 @@ Runa XR is here to better serve the cryptocurrency community space 🚀, best XR
 - Decimal: 18
 - XR burned: 95%
 - Circulating supply: 450,000,000 XR
-
-
 - Contract:
 0x9Af9649403536FdCc52eaFB9230852a824153223
+
+ XR holders relfection are automatic from buy & sell transaction
+
+ XR stable itself with own liquidity mechanism
+
+ XR without massive tax fee, easy for everyone to invest
+
+ XR supply are burned to support future price
+
+ XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
+
 
 Slippage:
 10%
