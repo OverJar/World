@@ -32,7 +32,7 @@ Slippage:10%
 
 If you would like to track price on trustwallet, feel free to submit Runa XR to Coingecko & CoinMarketCap
 
-- XRreward: for early project, we will reward everyone for supporting project such as video, blog, submition, ect, as part of XRcommunity 
+- XRreward: for early project, we will reward everyone for supporting project such as video, blog, submission, ect, as part of XRcommunity 
 
 XR Social
 - [Twitter](https://twitter.com/RunaXR_Club)
