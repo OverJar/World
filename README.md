@@ -24,8 +24,12 @@ XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_li
  
  XRAPY earn up to 1000% APY in your wallet by simply share Runa XR with friends & family
 
+ XRliquidity & Burned & Safety: better future price improvement, liquidity route to dead address on 2024 for up to 10 years, XRcommunity forever!
+
+🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRburned.png) 
+
 Join XRclub!! Grab on Quickswap
-[Runa XR](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
+[Runa XR](https://quickswap.exchange/#/swap?inputCurrency=0x9af9649403536fdcc52eafb9230852a824153223)
 
 Slippage:10%
 
