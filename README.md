@@ -1,4 +1,4 @@
-# Runa 💲XR 🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
+# Runa 💲XR up to 1000% APY🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
 Runa XR is here to better serve the cryptocurrency community space 🚀! Get aboard for imagination eXtended reality! 
 XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_liquidity! 
@@ -16,11 +16,13 @@ XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_li
 
  XR stable itself with own liquidity mechanism
 
- XR without massive tax fee, easy for everyone to invest
+ XR without massive tax fee, easy for everyone to invest & earn up to 1000% APY
 
  XR supply are burned to support future price
 
  XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
+ 
+ XRAPY earn up to 1000% APY in your wallet by simply share Runa XR with friends & family
 
 Join XRclub!! Grab on Quickswap
 [Runa XR](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
