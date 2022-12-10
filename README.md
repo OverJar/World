@@ -36,5 +36,5 @@ If you would like to track price on trustwallet, feel free to submit Runa XR to 
 
 XR Social
 - [Twitter](https://twitter.com/RunaXR_Club)
-- [Telegram](https://t.me/XRcommunity)
+- [Telegram](https://t.me/RunaXR)
 
