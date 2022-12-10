@@ -23,7 +23,7 @@ XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_li
  XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
 
 Join XRclub!! Grab on Quickswap
-[Runa](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
+[Runa XR](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
 
 Slippage:10%
 
