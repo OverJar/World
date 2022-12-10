@@ -24,7 +24,7 @@ XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_li
  
  XRAPY earn up to 1000% APY in your wallet by simply share Runa XR with friends & family
 
- XRliquidity & Burned & Safety: better future price improvement, liquidity route to dead address locked forever on 2024 for up to 10 years, XRcommunity forever!
+ XRliquidity & Burned & Safety: better future price improvement, liquidity route to dead address locked forever on 2024 for up to 10 years, liquidity on dead address are locked forver on the Blockchain ecosystem to prevent any scam/rugged, XRcommunity merged on Blockchain forever!
 
 🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRburned.png) 
 
