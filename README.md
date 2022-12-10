@@ -22,11 +22,17 @@ XRtower! XRrency! XRspace! XRreflection! XR_AI reflection it's holders & self_li
 
  XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
 
+Join XRclub!! Grab on Quickswap
+[Runa](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
 
-Slippage:
-10%
+Slippage:10%
 
-Buy XR on Quickswap [Runa](https://info.quickswap.exchange/#/token/0x9Af9649403536FdCc52eaFB9230852a824153223)
+- We are XR !! Be your own XRclub - XRcommunity 
+- XR price: [Nomics](https://nomics.com/assets/xr2-runa)
+
+If you would like to track price on trustwallet, feel free to submit Runa XR to Coingecko & CoinMarketCap
+
+- XRreward: for early project, we will reward everyone for supporting project such as video, blog, submition, ect, as part of XRcommunity 
 
 XR Social
 - [Twitter](https://twitter.com/RunaXR_Club)
