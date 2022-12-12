@@ -1,7 +1,7 @@
-# Runa 💲XR up to 1000% APY🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
+# Runa 💲XR up to 1000% APR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
 Runa XR is here to better serve the cryptocurrency community space 🚀! Get aboard for imagination eXtended reality! 
-XRtower! XRrency! XRspace! XRreflection! XRAPY! XR_AI reflection it's holders & self_liquidity! 
+XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & self_liquidity! 
 
 - Name: Runa
 - Symbol: XR
@@ -22,9 +22,9 @@ XRtower! XRrency! XRspace! XRreflection! XRAPY! XR_AI reflection it's holders & 
 
  XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
  
- XRAPY earn up to 1000% APY in your wallet, share Runa XR with friends & family to improve APY
+ XRAPR earn up to 1000% APR in your wallet, share Runa XR with friends & family to improve APR
 
- XRAPY+ are based on daily transactions, more investors more APY percentages
+ XRAPR+ are based on daily transactions, more investors more APR percentages
 
  XRliquidity & Burned & Safety: better future price improvement, liquidity route to dead address locked forever on 2024 for up to 10 years, liquidity on dead address are locked forver on the Blockchain ecosystem for long term investments.
 
