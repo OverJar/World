@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2022-12-07
+ *Submitted for vertification for CoinMarketCap
 */
 
 // SPDX-License-Identifier: Unlicense
