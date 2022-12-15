@@ -3,6 +3,8 @@
 Runa XR is here to better serve the cryptocurrency community space 🚀! Get aboard for imagination eXtended reality! 
 XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & self_liquidity! 
 
+Featured by [SolidityShield](https://twitter.com/SolidityShield/status/1603179385510498304) 🛡️
+
 - Name: Runa
 - Symbol: XR
 - Polygon Blockchain
@@ -16,7 +18,7 @@ XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & 
 
  XR stable itself with own liquidity mechanism
 
- XR without massive tax fee, easy for everyone to invest & earn up to 1000% APY
+ XR without massive tax fee, easy for everyone to invest & earn up to 1000% APR
 
  XR supply are burned to support future price
 
@@ -25,8 +27,6 @@ XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & 
  XRAPR earn up to 1000% APR in your wallet, share Runa XR with friends & family to improve APR
 
  XRAPR+ are based on daily transactions, more investors more APR percentages
-
- XRliquidity & Burned & Safety: better future price improvement, liquidity route to dead address locked forever on 2024 for up to 10 years, liquidity on dead address are locked forver on the Blockchain ecosystem for long term investments.
 
 95% XR burned ( future price improvement )
 ![XR Burned](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRburned.png) 
@@ -38,10 +38,12 @@ XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & 
 Join XRclub!! Grab on Quickswap
 [Runa XR](https://quickswap.exchange/#/swap?inputCurrency=0x9af9649403536fdcc52eafb9230852a824153223)
 
-Slippage:10%
+Slippage:5 - 20%
 
-- We are XR !! Be your own XRclub - XRcommunity 
-- XR price: [Nomics](https://nomics.com/assets/xr2-runa)
+- XR price: 
+[Nomics](https://nomics.com/assets/xr2-runa)
+
+[LiveCoinWatch](https://www.livecoinwatch.com/price/Runa-XR)
 
 If you would like to track price on trustwallet, feel free to submit Runa XR to Coingecko & CoinMarketCap
 
