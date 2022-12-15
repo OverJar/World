@@ -41,6 +41,7 @@ Join XRclub!! Grab on Quickswap
 Slippage:5 - 20%
 
 - XR price: 
+
 [Nomics](https://nomics.com/assets/xr2-runa)
 
 [LiveCoinWatch](https://www.livecoinwatch.com/price/Runa-XR)
@@ -48,6 +49,7 @@ Slippage:5 - 20%
 If you would like to track price on trustwallet, feel free to submit Runa XR to Coingecko & CoinMarketCap
 
 XR Social
+- [Website](https://xreflex.xyz/)
 - [Twitter](https://twitter.com/RunaXR_Club)
 - [Telegram](https://t.me/RunaXR)
 
