@@ -27,7 +27,9 @@ KyberSwap:
 
 If you would like to track price on trustwallet, feel free to submit OverJarto Coingecko & CoinMarketCap
 
-OverJarSocial
+OverJar Social
+
+- [GitHub](https://overjar.github.io/World/)
 - [Website](https://overjar.xyz/)
 - [Twitter](https://twitter.com/OverJarV)
 
