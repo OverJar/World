@@ -1,0 +1,1596 @@
+/*
+Author       : themes_master
+Template Name: Crptiam - Cryptocurrency ICO Landing Page HTML Template 
+Version      : 1.0
+*/
+/*=============================================================
+    CSS INDEX
+    =============================
+    01. GENERAL STYLE (body, link color, section-title, preloader btn, overlay, section-padding etc)
+    02. START BOOTSTRAP NAVIGATION OVERRIDES
+    03. START HOME DESIGN
+    04. START ABOUT DESIGN
+    05. START BUY SELL DESIGN
+    06. START TOKEN SALE DESIGN
+    07. START ROADMAP DESIGN
+    08. START DOWNLOAD DESIGN
+    09. START TEAM DESIGN
+    10. START ADVISOR DESIGN
+    11. START PARTNER DESIGN
+    12. START FAQ DESIGN
+    13. START PROMOTION DESIGN
+    14. START CONTACT DESIGN
+    15. START BLOG DESIGN
+    16. START FOOTER DESIGN
+    17. START SECTION TOP DESIGN
+  =============================================================*/
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GENERAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+body {
+color: #aab2cd;
+font-family: 'Quicksand', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+background:#151c2b;
+overflow-x:hidden;
+}
+html,
+body { height: 100%;position:relative;  }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 0px;
+  margin-top: 0px; 
+  font-family: 'Quicksand', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  position: relative;
+}
+a {
+font-family: 'Quicksand', sans-serif;
+text-decoration: none;
+-webkit-transition: all 0.2s ease 0s;
+transition: all 0.2s ease 0s;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+p {
+    margin-bottom: 0;
+	position: relative;
+}
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-input-placeholder {
+  font-weight: 400;
+font-family: 'Quicksand', sans-serif; }
+
+:-moz-placeholder {
+  font-weight: 400;
+font-family: 'Quicksand', sans-serif;}
+
+::-moz-placeholder {
+  font-weight: 400;
+font-family: 'Quicksand', sans-serif;}
+
+:-ms-input-placeholder {
+  font-weight: 400;
+font-family: 'Quicksand', sans-serif;}
+.form-control::placeholder {
+	color: #fff;
+	opacity: 1;
+}
+fieldset {
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+}
+/*START PRELOADER DESIGN*/
+.preloader {
+	background:#151c2b;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 99999;	
+}
+.spinner {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -25px 0 0 -25px;
+	font-size: 10px;
+	text-indent: -12345px;
+	z-index: 10000;
+}
+
+.double-bounce1, .double-bounce2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background:#ffaa17;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% { 
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+.status-mes h4 {
+color: #f7f7f7;
+position:relative;
+font-size:24px;
+margin-top: 30px;
+text-transform: capitalize;
+letter-spacing: 1px;
+}
+.no-padding { padding: 0 }
+/*END PRELOADER DESIGN*/
+.section-padding {padding:100px 0;}
+/*START SECTION TITLE DESIGN*/
+.section-title{margin-bottom:60px;}
+.section-title  h1 {
+font-size:40px;
+font-weight:600;
+margin-top: 0;
+position: relative;
+text-transform: capitalize;
+}
+h1.section-title-white{
+color:#fff;
+font-size: 40px;
+line-height: 70px;
+font-weight:600;
+margin-top: 0;
+position: relative;
+}
+p.section-title-white{color:#fff;}
+@media only screen and (max-width:768px) { 
+.section-title  h1  {font-size:40px;}
+}
+@media only screen and (max-width:480px) { 
+.section-title  h1  {font-size:30px;}
+}
+.section-title span{
+background: #f5325c none repeat scroll 0 0;
+display: block;
+height: 2px;
+margin: 10px auto;
+width: 100px;
+}
+
+.section-title-white{color:#fff;position:relative;}
+.section-title  p{
+padding: 0 10px;
+width: 60%;
+margin: auto;	
+}
+@media only screen and (max-width:480px) { 
+.section-title  p{
+padding: 0 10px;
+width: 90%;
+margin: auto;	
+}
+}
+/*END SECTION TITLE DESIGN*/
+/*START SCROLL TO TOP*/
+.topcontrol {
+background: #ffaa17 none repeat scroll 0 0;
+border-radius: 30px;
+bottom: 5px;
+box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2);
+color: #fff;
+cursor: pointer;
+font-size: 22px;
+height: 50px;
+line-height: 47px;
+opacity: 1;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+position: fixed;
+right: 5px;
+text-align: center;
+-webkit-transition: all 0.2s ease 0s;
+transition: all 0.2s ease 0s;
+width: 50px;
+}
+@media only screen and (max-width:768px) { 
+.topcontrol {display:none;}
+}
+.topcontrol:hover {
+    background: #222;
+    color: #fff;
+}
+/*END SCROLL TO TOP*/
+
+/*START BUTTON DESING*/
+.btn_one {
+	background:#ffaa17;
+	padding: 10px 36px;
+	border: 2px solid #ffaa17;
+	color: #fff;
+	border-radius:30px;
+	font-size: 16px;
+	display: inline-block;
+	font-weight: 500;
+	position:relative;
+	text-transform: capitalize;
+	transition: 0.3s;
+}
+
+.btn_one:hover, .btn_one:focus{
+background:none;
+color:#fff;
+border:2px solid #fff;
+}
+.btn_two {
+	background: rgba(255, 0, 102, 0.85);
+	padding: 10px 36px;
+	border: 2px solid rgba(255, 0, 102, 0.85);
+	color: #fff;
+	border-radius:30px;
+	position:relative;
+	display: inline-block;
+	font-weight: 500;
+	font-size: 16px;
+	text-transform: capitalize;
+	transition: 0.3s;
+}
+.btn_two:hover, .btn_two:focus{
+background:#fff;
+color:#1d1e20;
+border:2px solid #fff;
+}
+/*END BUTTON DESING*/
+#particles-js{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 01.END GENERAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 02.START BOOTSTRAP NAVIGATION OVERRIDES
+* ----------------------------------------------------------------------------------------
+*/
+.navbar-brand img{
+	width: 140px;
+	height: auto;
+}
+
+.navbar-custom {
+    background-color: transparent;
+    padding: 20px 0;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 999;
+    margin-bottom: 0px;
+	border-bottom:0px;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.navbar-custom .navbar-toggler {
+    color: #fff;
+    font-size: 30px;
+    padding: 0px;
+}
+.navbar-custom .navbar-brand {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+.navbar-custom .navbar-nav li a {
+    color: #fff !important;
+    font-size: 16px;
+    background-color: transparent !important;
+    margin: 0 5px;
+    letter-spacing: 0.5px;
+    line-height: 24px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.navbar-custom .navbar-nav li a:hover,
+.navbar-custom .navbar-nav li a:active,
+.navbar-custom .navbar-nav li a.active {
+    color: #fff !important;
+}
+.navbar-custom .navbar-nav .nav-item:last-child .nav-link {
+    margin-right: 0;
+    padding-right: 0;
+}
+.navbar-custom.nav-sticky {
+    background-color: #1e2739 !important;
+    padding: 15px 0px;
+    border-bottom: none;
+}
+@media (max-width: 1023px) {
+    .navbar-custom .nav-social {
+        display: none;
+    }
+}
+@media (max-height: 480px) {
+    .navbar-nav {
+        max-height: 200px;
+        overflow-y: auto;
+    }
+}
+@media (min-width: 200px) and (max-width: 812px) {
+.navbar-custom {
+	background-color: #1e2739;
+	padding: 10px 0px !important;
+}
+}
+@media (min-width: 200px) and (max-width: 768px) {
+.navbar-custom {
+	background-color: #1e2739;
+	padding: 10px 0px !important;
+}
+}
+.mdi-menu::before {
+	content: "\F035C";
+}
+.mdi::before, .mdi-set {
+	display: inline-block;
+	font: normal normal normal 24px/1 "Material Design Icons";
+	font-size: inherit;
+	text-rendering: auto;
+	line-height: inherit;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 02.END BOOTSTRAP NAVIGATION OVERRIDES
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 03.START HOME DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.home_bg {
+	position: relative;
+    padding-bottom: 60px;
+}
+.hero-text h2 {
+	color: #fff;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 68px;
+	padding-top: 230px;
+	margin-bottom: 20px;
+}
+@media only screen and (max-width:768px) { 
+.hero-text h2 {font-size:42px;line-height:52px;}
+}
+@media only screen and (max-width:480px) { 
+.hero-text h2 {font-size:32px;}
+}
+.hero-text p {
+	margin-top: 20px;
+	color:#fff;
+}
+.home_btn{margin-top:40px;}
+.home_btn a {
+	margin-right: 10px;
+}
+
+/*START COUNTDOWN*/
+.buy-icons {
+	overflow: hidden;
+	margin-top: 150px;
+	padding:40px;
+	border:2px solid #1e2739;
+}
+@media only screen and (max-width:480px) { 
+.buy-icons{padding:20px;}
+}
+.ca-starts-in .timer-area {
+  margin: 40px 0;
+}
+.ca-starts-in h3 {
+	margin-bottom: 30px;
+	font-weight: 700;
+	font-size: 36px;
+}
+.ca-starts-in .timer-area div {
+color:#fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.ca-starts-in .timer-area div .cdown {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 25%;
+          flex: 1 1 25%;
+  max-width: 25%;
+  display: block;
+  background: #1e2739;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 16px;
+  padding: 15px;
+}
+@media only screen and (max-width:480px) { 
+.ca-starts-in .timer-area div .cdown{padding: 10px;}
+}
+.ca-starts-in .timer-area div .cdown:last-child {
+  margin-right: 0;
+}
+.ca-starts-in .timer-area div .cdown .time-count {
+	display: block;
+	font-size: 30px;
+	margin-bottom: 10px;
+	font-weight: 700;
+}
+@media only screen and (max-width:480px) { 
+.ca-starts-in .timer-area div .cdown .time-count {font-size:22px;}
+}
+.ca-starts-in .timer-area div .cdown p {
+	display: block;
+	font-size: 14px;
+	color: #fff;
+	line-height: 14px;
+	font-weight: 600;
+}
+.ca-starts-in a{
+margin-right:10px;
+}
+
+.payment_img{margin-top:30px;}
+.payment_img a img {
+	display: inline-block;
+	width: 60px;
+	padding:5px;
+}
+.buy-icons-img{padding-top:200px;}
+@media only screen and (max-width:768px) { 
+.buy-icons-img{padding-top:80px;}
+}
+/*END COUNTDOWN*/
+/*
+* ----------------------------------------------------------------------------------------
+* 03.END HOME DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/*
+* ----------------------------------------------------------------------------------------
+* 04.START ABOUT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.about_us {
+	padding-bottom: 50px;
+}
+.single_about {
+	padding: 0 10px;
+	margin-bottom: 30px;
+	border-radius: 5px;
+	position: relative;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.single_about img{
+float: left;
+width: 60px;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+.single_about h3 {
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom:15px;
+	overflow: hidden;
+}
+.single_about p{overflow: hidden;}
+.about-img{text-align: center;}
+.about-img img{margin-bottom:50px;}
+.about-text{}
+.about-text h2 {
+	margin-bottom: 30px;
+	font-size: 60px;
+	font-weight: 500;
+}
+@media only screen and (max-width:480px) { 
+.about-text h2 {font-size: 40px;}
+}
+.about-text p{margin-bottom:20px}
+.about-bold {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+}
+.about_btn {margin-top: 30px;}
+/*
+* ----------------------------------------------------------------------------------------
+* 04.END ABOUT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 05.START BUY SELL DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.buy_sell_list {
+	margin-bottom: 30px;
+	background: #1e2739;
+	padding: 30px;
+	border-radius: 2px;
+}
+.buy_sell_list h4{
+font-weight: 600;
+font-size: 20px;
+}
+.buy_sell_list img{
+	float: left;
+	margin-right: 20px;
+	width: 60px;
+	margin-bottom: 20px;
+}
+.buy_sell_list p{overflow: hidden;}
+@media only screen and (max-width:768px) { 
+.portfolio_list_img {
+margin-top:40px;
+margin-bottom:40px;
+text-align:center;
+}
+}
+
+.how_to_buy_area{}
+.single_how_to_buy {
+	padding: 40px;
+	padding-top: 0;
+}
+.single_how_to_buy img{
+width: 60px;
+margin-bottom: 20px;
+}
+.single_how_to_buy h4{
+font-weight: 600;
+font-size: 20px;
+}
+.single_how_to_buy p{}
+/*
+* ----------------------------------------------------------------------------------------
+* 05.END BUY SELL DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 06.START TOKEN SALE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.token_sale_area{}
+.token_content{margin-bottom:50px;}
+.token_content h2 {
+	margin-bottom: 15px;
+	font-weight: 600;
+}
+.token_content p {}
+.single_token {
+	margin-bottom: 30px;
+	padding: 25px 10px;
+	border-radius: 500px;
+}
+.single_token h4 {
+	font-weight: 600;
+	font-size:18px;
+}
+.single_token p{color: #fff;}
+.single_token_bg_one{background:#5fc0d8;}
+.single_token_bg_two{background:#6f4cf2;}
+.single_token_bg_three{background:#c660e8;}
+.single_token_bg_four{background:#05b169;}
+.single_token_bg_five{background:#f2924c;}
+.single_token_bg_six{background:#e8606f;}
+.single_token_bg_seven{background:#1652f0;}
+.single_token_bg_eight{background:#3DB2FF;}
+.currency_content{
+background:#1e2739;
+padding:60px;
+border-radius:5px;
+}
+.currency_content h3{
+	color:#fff;
+	font-size: 56px;
+	font-weight: 700;
+}
+.currency_content p {
+	color:#fff;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.cryptonatorwidget {
+	border: 0 !important;
+	padding: 0 !important;
+	margin-bottom: 20px;
+}
+.cryptonatorwidget input {
+	border: 2px solid rgba(255,255,255,0.2);
+	height: 52px !important;
+	margin-bottom: 5px;
+	text-transform: capitalize;
+	background: none;
+	color: #fff;
+	padding: 0 10px;
+	border-radius: 2px;
+	font-family: 'Poppins', sans-serif !important;
+}
+.cryptonatorwidget select {
+	border: 2px solid rgba(255,255,255,0.2);
+	height: 52px !important;
+	margin-bottom: 5px;
+	text-transform: capitalize;
+	background: none;
+	color: #fff;
+	padding: 0 10px;
+	font-family: 'Poppins', sans-serif !important;
+	border-radius: 2px;
+}
+.cryptonatorwidget > div {
+  display: none;
+}
+.token-img h4{font-weight: 600;}
+.fund-img h4{font-weight: 600;}
+/*
+* ----------------------------------------------------------------------------------------
+* 06.END TOKEN SALE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 07.START ROADMAP DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+.timeline {position: relative;}
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.time_contain {
+  padding: 10px 50px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+.time_contain h2 {
+	font-weight: 600;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.time_contain h2 span {
+	color: #ffaa17;
+}
+.time_contain::after {
+	content: '';
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	right: -13px;
+	background-color: #fff;
+	border: 4px solid #ffaa17;
+	top: 15px;
+	border-radius: 50%;
+	z-index: 1;
+}
+
+.time_left {
+  left: 0;
+}
+
+.time_right {
+  left: 50%;
+}
+
+.time_left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
+}
+
+.time_right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+
+.time_right::after {
+  left: -12px;
+}
+.time_content {
+	padding: 30px;
+	background: #1e2739;
+	position: relative;
+	border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  .timeline::after {
+    left: 31px;
+  }
+  .time_contain {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+  .time_contain::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+  
+  .time_left::after, .time_right::after {
+    left: 15px;
+  }
+  
+  .time_right {
+    left: 0%;
+  }
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 07.END ROADMAP DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 08.START DOWNLOAD DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+.download_area{}
+.app-text {overflow: hidden;}
+
+.app-text h2 {
+	color:#fff;
+	font-size: 40px;
+	margin-bottom:20px;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+.app-text p{margin-bottom: 50px;color:#fff;}
+.app-text ul{list-style:none;margin-top: 30px;}
+.app-text ul li {
+	font-size: 20px;
+	line-height: 36px;
+	float:left;
+	margin-right:20px;
+	position: relative;
+	color:#fff;
+	width: 250px;
+	margin-bottom: 20px;
+}
+.app-text ul li span {
+	font-size: 16px;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	line-height: 36px;
+	text-align: center;
+	border-radius: 30px;
+	margin-right: 10px;
+	display: inline-block;
+	border: 2px solid #1e2739;
+}
+.app_btn {
+	margin-top:30px;
+}
+.app_btn a {margin-right:15px;}
+@media only screen and (max-width:480px) { 
+.app_btn a {margin-bottom:15px;}
+}
+.app_btn a i{margin-right:8px;}
+@media only screen and (max-width:768px) { 
+.app_img {
+margin-top:40px;
+text-align:center;
+}
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 08.END DOWNLOAD DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+/*
+* ----------------------------------------------------------------------------------------
+* 09.START TEAM DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.team_member {
+	padding-bottom: 50px;
+	overflow: hidden;
+}
+.our-team{
+background:#1e2739;
+padding:30px;
+margin-bottom:30px;
+}
+.our-team img {
+	width: 160px;
+	height: 160px;
+	border-radius: 500px;
+	margin-bottom: 30px;
+}
+.our-team h3 {
+	font-weight: 600;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.our-team ul{
+margin-bottom: 10px;
+list-style:none;
+}
+.our-team ul li{
+display: inline-block;
+}
+.our-team ul li a {
+	margin: 0 10px;
+	color: #fff;
+	transition: 0.3s;
+	display: inline-block;
+	position: relative;
+}
+.our-team ul li a:hover{color:#ffaa17;}
+.our-team span{position: relative;}
+/*
+* ----------------------------------------------------------------------------------------
+* 09.END TEAM DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+/*
+* ----------------------------------------------------------------------------------------
+* 10.START BOARD ADVISOR DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.board_member{padding-bottom:50px;}
+.our-board{margin-bottom:30px;}
+.our-board img {
+	width: 160px;
+	height: 160px;
+	border-radius: 500px;
+	margin-bottom: 30px;
+}
+.our-board h3 {
+	font-weight: 600;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.our-board ul{
+margin-bottom: 10px;
+list-style:none;
+}
+.our-board ul li{
+display: inline-block;
+}
+.our-board ul li a {
+	margin: 0 10px;
+	color: #fff;
+	transition: 0.3s;
+	display: inline-block;
+	position: relative;
+}
+.our-board ul li a:hover{color:#ffaa17;}
+.our-board span{position: relative;}
+/*
+* ----------------------------------------------------------------------------------------
+* 10.END BOARD ADVISOR DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 11.START PARTNER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.partner_area{padding-bottom:50px;}
+.partner-logo{}
+.partner-logo img{
+margin-bottom:30px;
+width:100px;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 11.END PARTNER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/* ----------------------------------------------------------------------------------------
+* 12.START FAQ DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.faq1-area {}
+.accordion-item {
+	background-color: #1e2739;
+	border: 0px solid #4a516b;
+	margin-bottom: 30px;
+}
+.accordion-button {
+	position: relative;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	padding: 1rem 1.25rem;
+	font-size: 20px;
+	color: #fff;
+	text-align: left;
+	background-color: #fff;
+	border: 0;
+	border-radius: 0;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+	background: #1e2739;
+	font-weight: 600;
+}
+.accordion-button:not(.collapsed) {
+	color: #fff;
+	background-color: #1e2739;
+	box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+}
+.accordion-button:not(.collapsed)::after {
+	transform: rotate(-180deg);
+	content: "\f077";
+	font-family: fontAwesome;
+	font-size: 14px;
+}
+.accordion-button::after {
+	flex-shrink: 0;
+	width: 1.02rem;
+	margin-left: auto;
+	content: "";
+	transition: transform .2s ease-in-out;
+	content: "\f077";
+	font-family: fontAwesome;
+	font-size: 14px;
+}
+.faq-img{margin-top:30px;}
+@media only screen and (max-width:768px) { 
+.faq-img {
+margin-top:40px;
+text-align:center;
+}
+}
+/* ----------------------------------------------------------------------------------------
+* 12.END FAQ DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+/*
+ * ----------------------------------------------------------------------------------------
+ * 13.START PROMOTION DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+.promotion_area{
+background:#1e2739;
+padding:80px 0;
+}
+.newsletter_form{}
+.newsletter_form h4 {
+	margin-bottom: 30px;
+	font-size: 32px;
+	line-height: 42px;
+	font-weight: 500;
+}
+.newsletter_form input {
+	height: 55px;
+	position: relative;
+	padding: 10px 20px;
+	width: 60%;
+	margin-right: 10px;
+	border-radius: 30px;
+	border: 1px solid #fff;
+}
+@media only screen and (max-width:480px) { 
+.newsletter_form input {margin-bottom:15px;}
+}
+.newsletter_form input:focus {
+	border: 1px solid #ffaa17;
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 13.END PROMOTION DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+/*
+* ----------------------------------------------------------------------------------------
+* 14.START CONTACT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.contact_us{}
+.contact {margin-right:30px;}
+@media only screen and (max-width:768px) { 
+.contact {margin-bottom:60px;margin-right:0px;}
+}
+.contact h4 {font-weight: 700;font-size: 40px;}
+.contact p {
+margin-bottom:40px;
+}
+.contact input {
+	background: #1e2739;
+	border-radius: 0px;
+	box-shadow: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 30px;
+	height: 70px;
+	padding: 10px 10px 10px 30px;
+	width: 100%;
+	border: 1px solid #1e2739;
+	position: relative;
+}
+.contact textarea {
+	background: #1e2739;
+	border-radius: 0px;
+	margin-bottom:30px;
+	box-shadow: none;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 10px 10px 10px 30px;
+	width: 100%;
+	border: 1px solid #1e2739;
+	position: relative;
+}
+.contact input:focus {
+	border: 1px solid #ffaa17;
+	background: #1e2739;
+	color: #fff;
+    box-shadow: none;
+    outline: 0 none;
+}
+.contact textarea:focus {
+border: 1px solid #ffaa17;
+background: #1e2739;
+color: #fff;
+    box-shadow: none;
+    outline: 0 none;
+}
+.contact button {
+	width: 100%;
+	font-size: 16px;
+}
+
+.address_bg {
+	background: #1e2739;
+	padding: 40px;
+	position: relative;
+	box-shadow: 0 10px 40px -10px rgba(0,64,128,.1);
+	border-radius: 3px;
+}
+.single_address {
+	margin-bottom: 30px;
+	border-bottom: 1px solid #3d4460;
+	padding-bottom: 30px;
+}
+.single_address:last-child {
+	border-bottom: 0px;
+	margin-bottom: 0;
+	padding-bottom: 0px;
+}
+@media only screen and (max-width:768px) { 
+.single_address{margin-bottom: 70px;}
+}
+.address_br{
+float:left;
+}
+.single_address span {
+	color: #ffaa17;
+	font-size: 30px;
+	margin-bottom: 20px;
+	display: block;
+	margin-right: 20px;
+	position: relative;
+}
+.single_address h4 {
+	font-weight: 600;
+	font-size: 18px;
+	overflow: hidden;
+	
+}
+.single_address p{overflow: hidden;}
+.contact_btn {
+	background: #ffaa17;
+	padding: 10px;
+	color: #fff;
+	position: relative;
+	text-transform: capitalize;
+	font-weight: 600;
+	-webkit-transition: 0.3s;
+	transition: 0.3s;
+}
+.contact_btn:hover{background:#1e2739;color: #fff;}
+
+
+.map{}
+.map iframe{
+width:100%;
+height:500px;
+margin-bottom: -8px;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 14.END CONTACT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 15.START BLOG DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.blog_bg{background:#f4f5f7;}
+.blog_area{padding-bottom:50px;}
+.single_blog {
+	background: #1e2739;
+	margin-bottom: 30px;
+}
+@media only screen and (max-width:768px) { 
+.single_blog {margin-bottom:30px;}
+}
+.blog-img{}
+.blog-img img{position: relative;}
+@media only screen and (max-width:768px) { 
+.blog-img img{width:100%;}
+}
+.blog-img a {
+	color: #fff;
+	font-weight: 600;
+	font-size: 16px;
+	display: inline-block;
+	margin-top: 20px;
+	position: relative;
+}
+.single_blog h2 {
+	font-weight: 700;
+	line-height: 30px;
+	font-size: 20px;
+	margin: 0 20px;
+}
+.single_blog h2 a{color:#fff;}
+.single_blog h2 a:hover{color:#ffaa17;}
+.single_blog span {
+	text-transform: capitalize;
+	padding: 0 10px;
+	margin-bottom: 15px;
+	display: inline-block;
+	font-weight: 600;
+	margin-top: 10px;
+}
+.single_blog span a {
+	color: #ffaa17;
+	position: relative;
+}
+.single_blog > a {
+	margin: 20px 0;
+	margin-bottom: 30px;
+}
+.single_blog > a:hover{}
+
+/*BLOG PAGES DESIGN*/
+.blog-page{}
+.post-slide-blog{
+background: #1e2739 none repeat scroll 0 0;
+border-radius:10px;
+box-shadow: 0 10px 40px -10px rgba(0,64,128,.08);
+margin-bottom: 30px;
+overflow: hidden;
+position: relative;
+padding: 40px;
+}
+.blog-img img{position: relative;}
+@media only screen and (max-width:768px) { 
+.blog-img img{width:100%;}
+}
+.post-slide-blog h2 {
+	font-weight: 700;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.post-slide-blog h2 a{color:#fff;}
+.post-slide-blog h2 a:hover{color:#ffaa17;}
+.post-slide-blog span {
+	text-transform: capitalize;
+	padding-right: 10px;
+	margin-bottom: 15px;
+	display: inline-block;
+	font-weight: 600;
+	margin-top: 20px;
+}
+.post-slide-blog span a{color:#ffaa17;}
+.post-slide-blog > a{margin-bottom: 0px;}
+.post-slide-blog p{margin-bottom: 30px;}
+
+
+
+/*START PAGINATION*/
+ul.blog_pagination li a {
+	border: 1px solid #1e2739;
+	border-radius: 30px;
+	color: #fff;
+	display: block;
+	font-size: 22px;
+	font-weight: 500;
+	background: #1e2739;
+	height: 60px;
+	line-height: 60px;
+	position: relative;
+	margin: 5px;
+	text-align: center;
+	width: 60px;
+}
+ul.blog_pagination li a:hover {
+    color: #fff;
+    background: #ffaa17;
+    border: 1px solid #ffaa17;
+}
+/*END PAGINATION*/
+/*START BLOG SIDEBAR DESIGN*/
+.contact_form_blog{padding-top:0px!important;}
+.blog_sidebar_title {
+	border-bottom: 1px solid #303a4f;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: x;
+	margin-bottom: 15px;
+	margin-top: 0;
+	padding-bottom: 10px;
+	text-transform: capitalize;
+}
+.blog_search, .latest_blog, .advertisement_post, .video_post, .categories, .tag, .banner {
+	margin-bottom: 30px;
+	background: #1e2739;
+	padding: 30px 30px;
+	position: relative;
+	border-radius:10px;
+	border-top: 3px solid #ffaa17;
+	box-shadow:0 10px 40px -10px rgba(0,64,128,.2);
+}
+.tag{overflow: hidden;}
+@media only screen and (max-width:768px) { 
+    .blog_search { margin-top: 60px }
+}
+.blog_search{}
+.blog_search input {
+	background: none;
+	border: 1px solid #303a4f;
+	border-radius: 0;
+	color: #fff;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	height: 50px;
+}
+.blog_search input:focus{background: none;border: 1px solid #ffaa17;color: #fff;}
+.single_latest_blog {
+	overflow: hidden;
+	border-bottom: 1px solid #303a4f;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.single_latest_blog h4 {
+	color: #aab2cd;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 28px;
+	margin: 0;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.single_latest_blog:hover h4 { color: #ffaa17 }
+.single_latest_blog span { color: #161616 }
+.single_upcoming_event {margin-bottom: 20px;}
+.single_upcoming_event h4 {
+	color: #fff;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 28px;
+	margin: 10px 0 0;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.single_upcoming_event:hover h4 { color: #ffaa17 }
+.single_upcoming_event span i{margin-right:5px;color: #ffaa17 }
+.single_upcoming_event span { color: #777 }
+.categories ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.categories ul li { }
+.categories ul li a {
+	color: #aab2cd;
+	display: block;
+	font-size: 14px;
+	padding: 5px 0;
+	font-family: poppins;
+	font-weight: 400;
+}
+.categories ul li a:hover { color: #ffaa17 }
+.categories ul li a i { margin-right: 10px }
+.video_post iframe {
+    width: 100%;
+    height: 100%;
+    border: medium none;
+}
+.tag a {
+	border: 2px solid #303a4f;
+	border-radius: 30px;
+	color: #fff;
+	display: block;
+	float: left;
+	font-size: 14px;
+	font-weight: 600;
+	margin: 6px 4px;
+	padding: 3px 15px;
+	text-transform: capitalize;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	background: none;
+}
+.tag a:hover {
+    background: #ffaa17;
+    color: #fff;
+    border: 2px solid #ffaa17;
+}
+/*END BLOG SIDEBAR DESIGN*/
+/*START BLOG SINGLE PAGE DESIGN*/
+.bc_left {
+	padding-left: 30px;
+	font-style: italic;
+	font-weight: 600;
+}
+.bc_bottom{margin-bottom:30px;}
+.single_blog_post { margin-bottom: 60px }
+.single_blog_post img {
+    width: 750px;
+    height: 455px;
+}
+.blog_post_text h4 { margin: 30px 0 }
+.author_part {
+	margin-bottom: 30px;
+	overflow: hidden;
+	margin-top: 60px;
+}
+.single_author {
+	background: #1e2739 none repeat scroll 0 0;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 0 10px 40px -10px rgba(0,64,128,.08);
+	overflow: hidden;
+}
+.author_part img {
+	border: 4px solid #ffaa17;
+	border-radius: 100px;
+	float: left;
+	height: 120px;
+	margin-right: 20px;
+	width: 120px;
+}
+.author_part h4 {text-transform: uppercase;
+font-size: 16px;
+font-weight:700;
+letter-spacing: 1px; }
+.author_part p { margin-bottom: 0 }
+.blog_head_title {
+border-bottom: 1px solid #303a4f;
+margin: 0 0 30px;
+padding-bottom: 10px;
+font-weight: 700;
+text-transform: uppercase;
+font-size: 18px;
+}
+.comments_part {
+    margin-bottom: 60px;
+}
+.single_comment {
+    margin-bottom: 30px;
+    background: #1e2739;
+    padding: 40px;
+	border-radius: 10px;
+	box-shadow: 0 10px 40px -10px rgba(0,64,128,.08);
+	overflow: hidden;
+}
+.single_comment_mbnone { margin-bottom: 0px }
+.single_comment img {
+    border: 4px solid #ffaa17;
+    border-radius: 100px;
+    float: left;
+    height: 120px;
+    margin-right: 20px;
+    width: 120px;
+}
+.single_comment h4 { font-size: 16px;
+font-weight:700;
+letter-spacing: 1px;
+text-transform: uppercase;}
+.single_comment p { margin-bottom: 0 }
+.comment-box {
+	padding: 40px;
+	border-radius: 10px;
+}
+.comment_form input, .comment_form textarea  {}
+
+.comment_form textarea {}
+@media only screen and (max-width:768px) { 
+    .comment_form textarea { width: 100% }
+}
+/*END BLOG SINGLE PAGE DESIGN*/
+/*
+* ----------------------------------------------------------------------------------------
+* 15.START BLOG DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 16.START FOOTER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.footer {
+	padding-bottom: 50px;
+	padding-top: 80px;
+}
+.footer_menu {
+	margin-bottom: 20px;
+}
+.footer_menu ul {
+	list-style: none;
+	text-align: center;
+}
+.footer_menu ul li{display: inline-block;}
+.footer_menu ul li a {
+	color:#fff;
+	padding: 0 10px;
+	position: relative;
+	-webkit-transition: 0.3s;
+	transition: 0.3s;
+}
+.footer_menu ul li a:hover{color:#ffaa17;text-decoration:underline;}
+
+/*START FOOTER SOCIAL DESIGN*/
+.footer_profile{margin-bottom:40px;}
+.footer_profile ul{
+list-style: outside none none;
+margin: 0;
+padding: 0
+}
+.footer_profile ul li{
+display: inline-block;
+}
+@media only screen and (max-width:480px) { 
+.footer_profile ul li{margin:2px;}
+}
+.footer_profile ul li a img{width:60px;}
+
+.footer_profile ul li a {
+	background: #1e2739;
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	position: relative;
+	margin-right: 5px;
+	border-radius: 50%;
+	line-height: 40px;
+	box-sizing: border-box;
+	text-decoration: none;
+	-webkit-transition: .3s;
+	transition: .3s;
+	color: #fff;
+}
+.footer_profile ul li a:hover{background: #ffaa17;}
+/*END FOOTER SOCIAL DESIGN*/
+.footer_copyright {
+margin-bottom: 20px;
+	text-transform: uppercase;
+	position: relative;
+	font-size: 12px;
+	font-weight: 600;
+	color: #fff;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 16.END FOOTER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+
+/*
+* ----------------------------------------------------------------------------------------
+* 15.START SECTION TOP DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.section-top {
+    padding-bottom: 100px;
+    padding-top: 160px;
+	position: relative;
+}
+.section-top-title h1 {
+color: #fff;
+font-weight: 600;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 15.END SECTION TOP DESIGN
+* ----------------------------------------------------------------------------------------
+*/
