@@ -1,55 +1,34 @@
-# Runa 💲XR up to 1000% APR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
+# OverJar💲V up to 1000% APR🚀![XR](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRsquareT50.png) 
 
-Runa XR is here to better serve the cryptocurrency community space 🚀! Get aboard for imagination eXtended reality! 
-XRtower! XRrency! XRspace! XRreflection! XRAPR! XR_AI reflection it's holders & self_liquidity! 
+OverJar, the revolutionary world’s first cryptocurrency that pays its users with stablecoin USDC on the fast and secure Polygon blockchain. With OverJar, enjoy seamless transactions, fast and low-cost transfers, and access to a thriving crypto ecosystem. Join the future of finance and invest in OverJar today! Daily buying to claim your earning quicker.
 
-Featured by [SolidityShield](https://twitter.com/SolidityShield/status/1603179385510498304) 🛡️
-
-- Name: Runa
-- Symbol: XR
+- Name: OverJar
+- Symbol: V
 - Polygon Blockchain
-- Decimal: 18
-- XR burned: 95%
-- Circulating supply: 450,000,000 XR
+- Decimal: 9
+- Slippage:10 - 20%
 - Contract:
-0x9Af9649403536FdCc52eaFB9230852a824153223
+0xd16488e6baeb716709bb92432a908694fe1a96c2
 
- XR holders relfection are automatic from buy & sell transaction
+Quickswap:
+[OverJar](https://quickswap.exchange/#/swap?inputCurrency=0xd16488e6baeb716709bb92432a908694fe1a96c2)
 
- XR stable itself with own liquidity mechanism
-
- XR without massive tax fee, easy for everyone to invest & earn up to 1000% APR
-
- XR supply are burned to support future price
-
- XRcommunity's everyone support, XR is far beyond other's massive supply cryptocurrency
- 
- XRAPR earn up to 1000% APR in your wallet, share Runa XR with friends & family to improve APR
-
- XRAPR+ are based on daily transactions, more investors more APR percentages
-
-95% XR burned ( future price improvement )
-![XR Burned](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/XRburned.png) 
-
-11,000XR liquidity burned ( locked forever )
-![XR Liquidity Burned](https://raw.githubusercontent.com/FlintFinancial/RunaXR/main/Liquidity_Burned.png) 
+KyberSwap:
+[OverJar](https://kyberswap.com/swap/polygon?referral=0xD05454897D3C160321F73A7D80CCb2dEf5fA2584&fee_bip=10&inputCurrency=MATIC&outputCurrency=0xd16488E6baEb716709BB92432a908694fe1a96c2
+)
 
 
-Join XRclub!! Grab on Quickswap
-[Runa XR](https://quickswap.exchange/#/swap?inputCurrency=0x9af9649403536fdcc52eafb9230852a824153223)
-
-Slippage:5 - 20%
 
 - XR price: 
 
-[Nomics](https://nomics.com/assets/xr2-runa)
+[CoinMarketCap](https://coinmarketcap.com/dexscan/polygon/0x156910CD6a08c0D521A3Fe7f9A6C2Cc5Aa4152d0)
 
-[LiveCoinWatch](https://www.livecoinwatch.com/price/Runa-XR)
+[LiveCoinWatch](https://www.livecoinwatch.com/price/OverJar-___V)
 
-If you would like to track price on trustwallet, feel free to submit Runa XR to Coingecko & CoinMarketCap
+If you would like to track price on trustwallet, feel free to submit OverJarto Coingecko & CoinMarketCap
 
-XR Social
-- [Website](https://xreflex.xyz/)
-- [Twitter](https://twitter.com/RunaXR_Club)
-- [Telegram](https://t.me/RunaXR)
+OverJarSocial
+- [Website](https://overjar.xyz/)
+- [Twitter](https://twitter.com/OverJarV)
+
 
