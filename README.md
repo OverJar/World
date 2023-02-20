@@ -4,22 +4,22 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 
 - Name: OverJar
 - Symbol: V
-- Polygon Blockchain
+- Network: Polygon
 - Decimal: 9
-- Slippage:10 - 20%
+- Exchange: Quickswap
+- Slippage: 10 - 20%
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
 Quickswap:
-[OverJar](https://quickswap.exchange/#/swap?inputCurrency=0xd16488e6baeb716709bb92432a908694fe1a96c2)
+[Buy](https://quickswap.exchange/#/swap?inputCurrency=0xd16488e6baeb716709bb92432a908694fe1a96c2)
 
 KyberSwap:
-[OverJar](https://kyberswap.com/swap/polygon?referral=0xD05454897D3C160321F73A7D80CCb2dEf5fA2584&fee_bip=10&inputCurrency=MATIC&outputCurrency=0xd16488E6baEb716709BB92432a908694fe1a96c2
+[Buy](https://kyberswap.com/swap/polygon?referral=0xD05454897D3C160321F73A7D80CCb2dEf5fA2584&fee_bip=10&inputCurrency=MATIC&outputCurrency=0xd16488E6baEb716709BB92432a908694fe1a96c2
 )
 
 
-
-- XR price: 
+- OverJar price: 
 
 [CoinMarketCap](https://coinmarketcap.com/dexscan/polygon/0x156910CD6a08c0D521A3Fe7f9A6C2Cc5Aa4152d0)
 
