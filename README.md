@@ -11,8 +11,14 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
-Quickswap:
+Quickswap: Best trade / Market V2
 [Buy](https://quickswap.exchange/#/swap?inputCurrency=0xd16488e6baeb716709bb92432a908694fe1a96c2)
+
+Quickswap: Github
+[Buy](https://overjar.github.io/World/buyOverJar.html)
+
+RubicSwap:
+[Buy](https://overjar.github.io/World/buy.html)
 
 KyberSwap:
 [Buy](https://kyberswap.com/swap/polygon?referral=0xD05454897D3C160321F73A7D80CCb2dEf5fA2584&fee_bip=10&inputCurrency=MATIC&outputCurrency=0xd16488E6baEb716709BB92432a908694fe1a96c2
