@@ -31,7 +31,7 @@ KyberSwap:
 
 [LiveCoinWatch](https://www.livecoinwatch.com/price/OverJar-___V)
 
-If you would like to track price on trustwallet, feel free to submit OverJarto Coingecko & CoinMarketCap
+If you would like to track price on trustwallet, feel free to submit OverJar to Coingecko & CoinMarketCap
 
 OverJar Social
 
