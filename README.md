@@ -8,6 +8,8 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Decimal: 9
 - Exchange: Quickswap
 - Slippage: 10 - 20%
+- Ownership: Renounced
+- Liquidity: Automatic
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
@@ -30,6 +32,8 @@ KyberSwap:
 [CoinMarketCap](https://coinmarketcap.com/dexscan/polygon/0x156910CD6a08c0D521A3Fe7f9A6C2Cc5Aa4152d0)
 
 [LiveCoinWatch](https://www.livecoinwatch.com/price/OverJar-___V)
+
+![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
 
 If you would like to track price on trustwallet, feel free to submit OverJar to Coingecko & CoinMarketCap
 
