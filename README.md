@@ -29,11 +29,13 @@ KyberSwap:
 
 - OverJar price: 
 
+
 [CoinMarketCap](https://coinmarketcap.com/dexscan/polygon/0x156910CD6a08c0D521A3Fe7f9A6C2Cc5Aa4152d0)
 
 [LiveCoinWatch](https://www.livecoinwatch.com/price/OverJar-___V)
 
-![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
+![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Chart.png) 
+
 
 If you would like to track price on trustwallet, feel free to submit OverJar to Coingecko & CoinMarketCap
 
@@ -42,5 +44,7 @@ OverJar Social
 - [GitHub](https://overjar.github.io/World/)
 - [Website](https://overjar.xyz/)
 - [Twitter](https://twitter.com/OverJarV)
+
+![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
 
 
