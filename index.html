@@ -133,14 +133,22 @@
 <br />	
 		<h2>OverJar contract</h2>
 0xd16488E6baEb716709BB92432a908694fe1a96c2
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<textarea style="position: absolute; left: -9999px;" id="element_html">0xd16488E6baEb716709BB92432a908694fe1a96c2</textarea>
+<button onClick="copy()">
+Copy
+</button>
+<p/>
 
-<textarea id="element_html">0xd16488E6baEb716709BB92432a908694fe1a96c2</textarea>
-<button onclick="copyContents()">Click to copy</button>
+<script>
+function copy(){
+$('#element_html').select();
+document.execCommand('copy');
+}
+</script>
 
 
-
-	 
 	
 	
 	<script src="Contract-clipboard.js"></script>
