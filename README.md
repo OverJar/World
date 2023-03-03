@@ -28,7 +28,7 @@ Liquidity pools keep the decentralized exchange stable by preventing slippage. W
 
 USDC Yield
 
-OverJar USDC Yield is Hold&Earn feature. No lock up or stake necessary. By holding OverJar token instead of swapping it. Holders receives more USDC yield. Pooled USDC are usually distributed daily. A long-term holders will collect more USDC with time. Daily swapping to collect USDC yield quicker. Polygon USDC contract: 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+OverJar USDC Yield is Hold&Earn feature. No lock up or stake necessary. By holding OverJar token instead of swapping it. Holders receives more USDC yield. Pooled USDC are usually distributed daily. A long-term holders will collect more USDC with time. Daily swapping to collect USDC yield quicker. Add [Polygon USDC](https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174) to show earnings.
 
 
 Quickswap: Best trade / Market V2
