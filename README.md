@@ -8,9 +8,11 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Network: Polygon
 - Decimal: 9
 - Exchange: Quickswap
-- Slippage: 10 - 20%
 - Ownership: Renounced
-- Liquidity: Automatic
+- Slippage: 15% ( recommend 16% )
+- USDC Pool: 12%
+- Liquidity: 2%
+- Development: 1%
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
