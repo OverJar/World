@@ -13,9 +13,13 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
+###### OverJar Special
+
+Made it simple and easy for everyone to invest, no third-party stake to save extra fee, investing OverJar token while earn USDC in return with just 5% slippage. Don't miss out this opportunity, join the future of cryptocurrency and invest in OverJar today !
+
 ###### Liquidity
 
-Fee collect for liquidity will store in to V address contract will sell it and add V/MATIC liquidity automatically to quickswap exchange. The DEX burn LP tokens for increased OverJar value and long term investments. Cryptocurrency liquidity pools remove a lot of the risks that centralized exchanges have. Even other methods of crypto exchanges lack in many areas that liquidity pools excel in. Speed, confidentiality, security, and profitability are all liquidity pool advantages.
+OverJar collect for liquidity will store in to V address contract will sell it and add V/MATIC liquidity automatically to quickswap exchange. The DEX burn LP tokens for increased OverJar value and long term investments. Cryptocurrency liquidity pools remove a lot of the risks that centralized exchanges have. Even other methods of crypto exchanges lack in many areas that liquidity pools excel in. Speed, confidentiality, security, and profitability are all liquidity pool advantages.
 
 
 ###### Slippage
