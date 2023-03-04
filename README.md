@@ -72,4 +72,43 @@ OverJar Social
 
 ![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
 
+###### OverJar Roadmap
+
+#### Q1 2023
+
+- OverJar Contract Deployed
+- Quickswap exchange listed
+- Website launched
+- Social page
+- 1st buy-back 
+- Liquidity added from buy-back
+- OverJar increase over 800%
+- Ownerships renounced
+- Liquidity burned forever
+- Automatic liquidity set to burn address
+- Slippage all transactions 5%
+
+
+#### Q2 2023
+
+- 2nd buy-back 
+- Liquidity from buy-back
+- More exchange listing
+- NFT & Gaming promote
+
+#### Q3 2023
+
+- 3rd buy-back
+- Liquidity add from buy-back
+- NFT giveaways
+
+#### Q4 2023
+
+- 4th buy-back
+- Liquidity add from buy-back
+- CoinMarketCap & Coingecko listing
+- USDC yield percentage vote by community
+- Final slippage vote by community
+- Set automatic buy-back
+- Partnership
 
