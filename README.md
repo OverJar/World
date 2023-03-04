@@ -16,17 +16,17 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
-Liquidity
+###### Liquidity
 
 Fee collect for liquidity will store in to V address contract will sell it and add V/MATIC liquidity automatically to quickswap exchange. The DEX burn LP tokens for increased OverJar value and long term investments. Cryptocurrency liquidity pools remove a lot of the risks that centralized exchanges have. Even other methods of crypto exchanges lack in many areas that liquidity pools excel in. Speed, confidentiality, security, and profitability are all liquidity pool advantages.
 
 
-Slippage
+###### Slippage
 
 Liquidity pools keep the decentralized exchange stable by preventing slippage. When the market becomes volatile, the value of cryptocurrency can fluctuate. Slippage is the difference between a crypto’s expected price and the market value.
 
 
-USDC Yield
+###### USDC Yield
 
 OverJar USDC Yield is Hold&Earn feature. No lock up or stake necessary. By holding OverJar token instead of swapping it. Holders receives more USDC yield. Pooled USDC are usually distributed daily. A long-term holders will collect more USDC with time. Daily swapping to collect USDC yield quicker. Add [Polygon USDC](https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174) to show earnings.
 
