@@ -1,6 +1,6 @@
 # OverJar![V](https://raw.githubusercontent.com/OverJar/World/main/overjars.png) 
 
-OverJar, the revolutionary world’s first cryptocurrency that pays its users with stablecoin USDC on the fast and secure Polygon blockchain. With OverJar, enjoy seamless transactions, fast and low-cost transfers, and access to a thriving crypto ecosystem. Join the future of finance and invest in OverJar today! Daily buying to claim your earning quicker.
+OverJar, the revolutionary world’s first cryptocurrency that pays its users with stablecoin USDC on the fast and secure Polygon blockchain. With OverJar, enjoy seamless transactions, fast and low-cost transfers, and access to a thriving crypto ecosystem. Join the future of finance and invest in OverJar today!
 ![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Ownership.png) 
 
 - Name: OverJar
@@ -9,10 +9,7 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Decimal: 9
 - Exchange: Quickswap
 - Ownership: Renounced
-- Slippage: 15% ( recommend 16% )
-- USDC Yield: 12%
-- Liquidity: 2%
-- Development: 1%
+- Slippage: 5%
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
