@@ -10,10 +10,12 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Exchange: Quickswap
 - Ownership: Renounced
 - Slippage: 5%
+- Liquidity: Automatic
+- USDC: Yield
 - Contract:
 0xd16488e6baeb716709bb92432a908694fe1a96c2
 
-###### OverJar Special
+###### Special
 
 Made it simple and easy for everyone to invest, no third-party stake to save extra fee, investing OverJar token while earn USDC in return with just 5% slippage. Don't miss out this opportunity, join the future of cryptocurrency and invest in OverJar today !
 
