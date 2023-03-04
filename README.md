@@ -63,9 +63,12 @@ If you would like to track price on trustwallet, feel free to submit OverJar to 
 
 OverJar Social
 
-- [GitHub](https://overjar.github.io/World/)
+- [GitHub](https://github.com/OverJar/World)
 - [Website](https://overjar.xyz/)
 - [Twitter](https://twitter.com/OverJarV)
+- [Medium](https://overjartoken.medium.com/)
+- [YouTube](https://youtube.com/@OverJarV/)
+
 
 ![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
 
