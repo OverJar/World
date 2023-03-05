@@ -70,8 +70,6 @@ OverJar Social
 - [YouTube](https://youtube.com/@OverJarV/)
 
 
-![V](https://raw.githubusercontent.com/OverJar/USDC/main/OverJar-Buy.png) 
-
 ###### OverJar Roadmap
 
 #### Q1 2023
