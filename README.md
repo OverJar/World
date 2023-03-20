@@ -9,7 +9,7 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 - Decimal: 9
 - Exchange: Quickswap
 - Ownership: Renounced
-- Slippage: 5%
+- Slippage: 10%
 - Liquidity: Automatic
 - USDC: Yield
 - Contract:
@@ -17,7 +17,7 @@ OverJar, the revolutionary world’s first cryptocurrency that pays its users wi
 
 ###### Special
 
-Made it simple and easy for everyone to invest, no third-party stake to save extra fee, investing OverJar token while earn USDC in return with just 5% slippage. Don't miss out this opportunity, join the future of cryptocurrency and invest in OverJar today !
+Made it simple and easy for everyone to invest, no third-party stake to save extra fee, investing OverJar token while earn USDC in return with just 10% slippage. Don't miss out this opportunity, join the future of cryptocurrency and invest in OverJar today !
 
 ###### Liquidity
 
