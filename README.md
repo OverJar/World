@@ -83,7 +83,7 @@ OverJar Social
 - Ownerships renounced
 - Liquidity burned forever
 - Automatic liquidity set to burn address
-- Slippage all transactions 5%
+- Slippage all transactions 10%
 
 
 #### Q2 2023
@@ -107,5 +107,6 @@ OverJar Social
 - USDC yield percentage vote by community
 - Final slippage vote by community
 - Set automatic buy-back
-- Partnership
+- SoFi Network Partnership
+
 
